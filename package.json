@@ -9,8 +9,13 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
+  "repository":{
+    "type":"git",
+    "url":"https://git.heroku.com/salty-savannah-88796.git"
+
+  }
   "author": "KIEN",
   "license": "ISC"
 }
